@@ -6,8 +6,7 @@
 ## Prototypes for functions written in this project:
 
 | File | 	Prototype | 
-| ------------- | ------------- |
-
+| --- | --- |
 | 0-read_file.py |	def read_file(filename=""): |
 | 1-number_of_lines.py |	def number_of_lines(filename=""): |
 | 2-read_lines.py	| def read_lines(filename="", nb_lines=0): |
